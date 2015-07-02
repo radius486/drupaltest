@@ -1,0 +1,4 @@
+name = Breadcrumb Picker
+description = Provide a character for the breadcrumb trail delimiter.
+package = Pro Drupal Development
+core = 7.x

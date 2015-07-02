@@ -1,0 +1,8 @@
+name = Grayscale
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = css/style.css
+
+settings[font_family] = 'ff-sss'
+settings[font_size] = 'fs-12'
